@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nutrisee</string>
+    <string name="no_data">No result found</string>
+    <string name="no_internet">Ups… Something went wrong</string>
+    <string name="searchbar_placeholder">Search Food</string>
+    <string name="add_to_list">Masukkan ke Daftar</string>
+</resources>
